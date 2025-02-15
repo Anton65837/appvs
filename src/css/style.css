@@ -105,8 +105,7 @@ html {
 }
 
 .promo__title{
-	/* color: var(--light-color, #F5F5F7 ); */
-	color: red;
+	color: var(--light-color, #F5F5F7 );
 	font-size: 60px;
 	font-weight: 400;
 	line-height: 73px;
